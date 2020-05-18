@@ -5,7 +5,7 @@ In order to install it, you should follow these steps:
 
   1- Download GEMOC Studio from http://gemoc.org/studio.html and install it.
   
-  2- Download both .zip files and extract them to the same location. These 2 files represents the editor configurations, setups and worksapce.
+  2- Download both .zip files and extract them to the same location. These 2 files represents the editor configurations, setups and worksapce. The files are : ICE_Workspace and runtime-Editor.
   
   3- Launch GEMOC and import all projects from "ICE_WorkSpace"
   
