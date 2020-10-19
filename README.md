@@ -10,7 +10,6 @@ In order to install it, you should follow these steps:
   The files are : `ICE_Workspace.zip` and `runtime-Editor.zip`.
   
   3. Launch GEMOC, create a workspace called `ICE_Workspace`, and import all projects from "ICE_WorkSpace"
->>>>>>> e3fadab... cleaning repo
   
   4. Click on `Run -> Run Configurations...`
   
