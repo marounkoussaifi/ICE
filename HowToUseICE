@@ -2,7 +2,7 @@ We recommend you to read first the "readme" file.
 
 Using ICE, you can do multiple actions:
 
-  1- Edition of the application
+  1- Modify the application
       
       i- To create a new bind between services, you should click first on the bind tool located on the right side panel.
       
@@ -38,6 +38,6 @@ Using ICE, you can do multiple actions:
       
   5- Connector
   
-    i- Right click on any empty space next to the structural presentation, a menu will open.
+      i- Right click on any empty space next to the structural presentation, a menu will open.
       
       ii- Select "Connector", then "Generate"
