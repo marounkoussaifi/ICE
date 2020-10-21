@@ -5,20 +5,20 @@ In order to install it, you should follow these steps:
 
   1. Download GEMOC Studio from http://gemoc.org/studio.html and install it.
   
-  2. Download both `.zip` files and extract them to the same location. 
+  2. Download both `.zip` files. 
   These 2 files represent the editor configurations, setups and workspace. 
   The files are : `ICE_Workspace.zip` and `runtime-Editor.zip`.
   
-  3. Launch GEMOC, create a workspace called `ICE_Workspace`, and import all projects from "ICE_WorkSpace"
+  3. Launch GEMOC, create a workspace called `ICE_Workspace`, and import all projects from "ICE_WorkSpace.zip"
   
   4. Click on `Run -> Run Configurations...`
   
-      - From the left panel click on `Eclipse Application` and create a new one. Chose `ICE` as its name.
+      - From the left panel click on `Eclipse Application` and create a new one. Choose `ICE` as its name.
       - Put the workspace name `runtime-Editor`. This will create the editor workspace.
       - Go to the `Arguments` tab, and copy: `-XX:MaxPermSize=256m` to the VM-arguments.
       - Click `Run`
 
-  5. When ICE starts, import all the projects from the `runtime-Editor` workspace.
+  5. When ICE starts, import all the projects from the `runtime-Editor.zip`.
   
   6. You may access now and use both Editors: one for the pro user and the other for the average one.
   
